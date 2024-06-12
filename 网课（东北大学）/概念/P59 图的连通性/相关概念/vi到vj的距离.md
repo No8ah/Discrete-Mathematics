@@ -1,0 +1,1 @@
+$$d <v_{i},v_{j}> \ \  \overset{\triangle}{=} \ \ v_{i}到v_{j}的\textcolor{orange}{\underline{\textbf{距离}}}$$
